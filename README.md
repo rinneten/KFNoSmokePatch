@@ -1,5 +1,6 @@
 # KFNoSmokePatch
 This patch removes smoke trails and splashes from M32/M79 and all nades (also medic-nade) in Killing Floor v1065
+Works on every server, it's not a mutator, it's client-sided texture patch.
 
 # Install
 1. [Download repos as .zip](https://github.com/rinneten/KFNoSmokePatch/archive/refs/heads/main.zip)
